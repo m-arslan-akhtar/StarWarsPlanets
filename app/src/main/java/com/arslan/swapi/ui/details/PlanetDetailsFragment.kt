@@ -25,7 +25,7 @@ class PlanetDetailsFragment : Fragment() {
         val tvName = view.findViewById<TextView>(R.id.tvName)
         val tvOrbital = view.findViewById<TextView>(R.id.tvOrbital)
         val tvGravity = view.findViewById<TextView>(R.id.tvGravity)
-        val btnBack = view.findViewById<ImageView>(R.id.btnBack)
+        val ivBack = view.findViewById<ImageView>(R.id.btnBack)
 
         val name = arguments?.getString("arg_name") ?: "Unknown"
         val orbital = arguments?.getString("arg_orbital") ?: "---"
@@ -38,7 +38,7 @@ class PlanetDetailsFragment : Fragment() {
         val imageUrl = "https://picsum.photos/seed/$name/600/400"
         imageView.load(imageUrl)
 
-        btnBack.setOnClickListener {
+        ivBack.setOnClickListener {
             parentFragmentManager.popBackStack()
         }
 
