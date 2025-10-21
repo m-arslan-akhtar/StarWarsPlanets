@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_arrow_back
+drawable ic_launcher_background
+id btnBack
+id fragment_container
+id imageView
+id tvGravity
+id tvName
+id tvOrbital
+layout activity_main
+layout fragment_planet_details
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string image_description
+style Theme.SWAPIAssessment

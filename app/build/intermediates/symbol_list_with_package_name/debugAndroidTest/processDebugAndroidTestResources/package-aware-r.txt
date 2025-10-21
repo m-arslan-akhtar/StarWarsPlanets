@@ -1,0 +1,3 @@
+com.arslan.swapi.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

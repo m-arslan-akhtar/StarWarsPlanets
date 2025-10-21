@@ -1,0 +1,90 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+}
+
+android {
+    namespace 'com.arslan.swapi'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.arslan.swapi'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+
+    buildFeatures {
+        compose true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = '1.5.3'
+    }
+
+   /* kotlinOptions {
+        jvmTarget = '17'
+    }*/
+
+    kotlin {
+        jvmToolchain(17)
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+
+    packagingOptions {
+        resources {
+            excludes += ['/META-INF/{AL2.0,LGPL2.1}']
+        }
+    }
+}
+
+dependencies {
+    implementation libs.kotlin.stdlib
+    implementation libs.androidx.core
+    implementation libs.appcompat
+
+    implementation libs.compose.ui
+    implementation libs.compose.material
+    implementation libs.compose.tooling.preview
+    implementation libs.activity.compose
+    debugImplementation libs.compose.tooling
+
+    implementation libs.navigation.fragment
+    implementation libs.navigation.ui
+
+    implementation libs.retrofit
+    implementation libs.gson.converter
+
+    implementation libs.coroutines.core
+    implementation libs.coroutines.android
+
+    implementation libs.hilt.android
+    kapt libs.hilt.compiler
+
+    implementation libs.coil.compose
+    implementation libs.coil
+
+    implementation libs.lifecycle.runtime
+    implementation libs.lifecycle.viewmodel
+
+    implementation libs.room.runtime
+    kapt libs.room.compiler
+    implementation libs.room.ktx
+
+    testImplementation libs.junit
+    testImplementation libs.mockito
+    androidTestImplementation libs.androidx.test.ext
+    androidTestImplementation libs.espresso
+    testImplementation libs.kotlinx.coroutines.test
+
+}

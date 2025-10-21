@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SWAPIAssessment" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#0B3D91</item>
+        <item name="colorPrimaryVariant">#061A3B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>

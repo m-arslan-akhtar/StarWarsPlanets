@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SWAPIAssessment</string>
+    <string name="image_description">Back arrow</string>
+    <style name="Theme.SWAPIAssessment" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#0B3D91</item>
+        <item name="colorPrimaryVariant">#061A3B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>

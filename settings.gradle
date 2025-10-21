@@ -1,0 +1,2 @@
+rootProject.name = "SWAPIAssessment"
+include ':app'

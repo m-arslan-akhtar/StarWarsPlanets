@@ -1,0 +1,6 @@
+com.arslan.swapi.test.app-jetified-annotation-experimental-1.4.0-0 C:\Users\IMM-Tech\.gradle\caches\transforms-4\8a57f5bf9f15b5f8a7fbc94341e4f028\transformed\jetified-annotation-experimental-1.4.0\res
+com.arslan.swapi.test.app-jetified-core-1.5.0-1 C:\Users\IMM-Tech\.gradle\caches\transforms-4\cb4ca968f578b4a2ff865866b4fc71c5\transformed\jetified-core-1.5.0\res
+com.arslan.swapi.test.app-androidTest-2 D:\Android_Studio_Projects\Assessment\SWAPIAssessment\app\build\generated\res\resValues\androidTest\debug
+com.arslan.swapi.test.app-mergeDebugAndroidTestResources-3 D:\Android_Studio_Projects\Assessment\SWAPIAssessment\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.arslan.swapi.test.app-mergeDebugAndroidTestResources-4 D:\Android_Studio_Projects\Assessment\SWAPIAssessment\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.arslan.swapi.test.app-debugAndroidTest-5 D:\Android_Studio_Projects\Assessment\SWAPIAssessment\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
