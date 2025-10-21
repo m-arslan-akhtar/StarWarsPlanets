@@ -4,7 +4,7 @@
             "outputFile": "com.arslan.swapi.app-mergeDebugResources-70:/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\f186f8d2a444a1072780ff124b856502\\transformed\\core-1.13.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\13128775786461ff086e41aff0c49269\\transformed\\core-1.13.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\d37f1e14e051209f5a779a16aef58cd5\\transformed\\material-1.4.0-beta01\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\24758911236bb6fc794aca794a5bd256\\transformed\\material-1.4.0-beta01\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\988a31f3171d12dce3395e9e34b41023\\transformed\\appcompat-1.7.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\b4034afa0df271c71d4b6be2930eadb0\\transformed\\appcompat-1.7.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\3e881595bbcc98dc443d5a2429e4df25\\transformed\\navigation-ui-2.7.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\5ead710c5ca1db26529f74d6de81fe62\\transformed\\navigation-ui-2.7.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\f26c10730d571440861d38586cb0465c\\transformed\\jetified-ui-release\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\b80b3aafebcd11832f89866431434501\\transformed\\jetified-ui-release\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

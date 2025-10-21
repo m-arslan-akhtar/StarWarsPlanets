@@ -5,6 +5,7 @@ import com.arslan.swapi.data.network.SwapiService
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
+// Repository class
 class PlanetRepository(private val service: SwapiService) {
 
     suspend fun getPlanets(page: Int = 1): Result<List<Planet>> {

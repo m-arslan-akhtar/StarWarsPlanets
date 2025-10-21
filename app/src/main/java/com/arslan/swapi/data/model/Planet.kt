@@ -2,6 +2,7 @@ package com.arslan.swapi.data.model
 
 import com.google.gson.annotations.SerializedName
 
+// Response Models
 data class Planet(
     val name: String,
     val climate: String,

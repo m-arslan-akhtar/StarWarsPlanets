@@ -4,7 +4,7 @@
             "outputFile": "com.arslan.swapi.app-mergeDebugResources-70:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\d37f1e14e051209f5a779a16aef58cd5\\transformed\\material-1.4.0-beta01\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\24758911236bb6fc794aca794a5bd256\\transformed\\material-1.4.0-beta01\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

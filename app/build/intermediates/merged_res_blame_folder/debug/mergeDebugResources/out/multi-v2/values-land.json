@@ -4,7 +4,7 @@
             "outputFile": "com.arslan.swapi.app-mergeDebugResources-70:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\988a31f3171d12dce3395e9e34b41023\\transformed\\appcompat-1.7.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\b4034afa0df271c71d4b6be2930eadb0\\transformed\\appcompat-1.7.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\d37f1e14e051209f5a779a16aef58cd5\\transformed\\material-1.4.0-beta01\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\24758911236bb6fc794aca794a5bd256\\transformed\\material-1.4.0-beta01\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

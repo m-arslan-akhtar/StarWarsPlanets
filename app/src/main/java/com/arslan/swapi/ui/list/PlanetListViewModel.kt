@@ -11,6 +11,7 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+// Viewmodel
 @HiltViewModel
 class PlanetListViewModel @Inject constructor(
     private val repository: PlanetRepository

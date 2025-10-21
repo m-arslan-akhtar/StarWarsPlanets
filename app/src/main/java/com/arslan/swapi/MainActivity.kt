@@ -6,6 +6,7 @@ import androidx.fragment.app.commit
 import com.arslan.swapi.ui.list.PlanetListFragment
 import dagger.hilt.android.AndroidEntryPoint
 
+// Main landing class
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment
 import coil.load
 import com.arslan.swapi.R
 
+// Details page of planet
 class PlanetDetailsFragment : Fragment() {
 
     override fun onCreateView(

@@ -4,26 +4,7 @@
             "outputFile": "com.arslan.swapi.app-mergeDebugResources-70:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\d37f1e14e051209f5a779a16aef58cd5\\transformed\\material-1.4.0-beta01\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,320",
-                        "endLines": "5,9",
-                        "endColumns": "10,10",
-                        "endOffsets": "315,588"
-                    },
-                    "to": {
-                        "startLines": "53,57",
-                        "startColumns": "4,4",
-                        "startOffsets": "3382,3647",
-                        "endLines": "56,60",
-                        "endColumns": "10,10",
-                        "endOffsets": "3642,3915"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\0a79f79c65687a0b266157572da343fa\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\5c4d68d6379d9bf1ba17bc4f812d6244\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\988a31f3171d12dce3395e9e34b41023\\transformed\\appcompat-1.7.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\24758911236bb6fc794aca794a5bd256\\transformed\\material-1.4.0-beta01\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,320",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "315,588"
+                    },
+                    "to": {
+                        "startLines": "53,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "3382,3647",
+                        "endLines": "56,60",
+                        "endColumns": "10,10",
+                        "endOffsets": "3642,3915"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\IMM-Tech\\.gradle\\caches\\transforms-4\\b4034afa0df271c71d4b6be2930eadb0\\transformed\\appcompat-1.7.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

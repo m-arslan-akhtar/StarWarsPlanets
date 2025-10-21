@@ -24,7 +24,6 @@
         android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
         android:label="SWAPIAssessment"
-        android:testOnly="true"
         android:theme="@style/Theme.SWAPIAssessment" >
         <activity
             android:name="com.arslan.swapi.MainActivity"

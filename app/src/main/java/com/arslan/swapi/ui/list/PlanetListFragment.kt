@@ -29,6 +29,7 @@ import com.arslan.swapi.ui.details.PlanetDetailsFragment
 import com.arslan.swapi.util.Resource
 import dagger.hilt.android.AndroidEntryPoint
 
+// Planet Lists screen
 @AndroidEntryPoint
 class PlanetListFragment : Fragment() {
 
