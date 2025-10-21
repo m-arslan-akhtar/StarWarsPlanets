@@ -20,9 +20,7 @@ and **Jetpack Compose** for the list screen with a traditional XML fragment for 
 - Retrofit with coroutines chosen for simplicity over Flow-based paging.
 
 ## Testing
-- ViewModel tests ensure both success and failure scenarios.
-- Repository tested using Mockito stubbing.
-- Coroutine TestDispatcher used for deterministic results.
+- To confirm that when the SWAPI service successfully returns a response, the repository correctly returns a success result containing a list of planets.
 
 ## How to Run
 1. Open in Android Studio (latest stable)
