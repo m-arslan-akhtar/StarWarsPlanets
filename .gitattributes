@@ -1,0 +1,7 @@
+# Ignore generated Java code so GitHub shows correct Kotlin percentage
+*.java linguist-generated
+*.kt linguist-detectable=true
+
+# Exclude build folders from language stats
+app/build/** linguist-vendored
+build/** linguist-vendored
